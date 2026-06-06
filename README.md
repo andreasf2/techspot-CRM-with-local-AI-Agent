@@ -1,0 +1,1 @@
+# techspot-CRM-with-local-AI-Agent
